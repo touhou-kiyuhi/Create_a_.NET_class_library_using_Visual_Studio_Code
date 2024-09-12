@@ -1,0 +1,11 @@
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+D:\Programming\Programming_Languages\Csharp\Create_a_.NET_class_library_using_Visual_Studio_Code\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
